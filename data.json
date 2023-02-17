@@ -1,22 +1,22 @@
 {
   "heading": {
-    "name": "Marcos Jones",
-    "subtitle": "Frontend developer",
-    "email": "email.mail.com",
-    "linkedin": "linkedin link",
-    "phone": "phone number",
+    "name": "Eshaan Collaco",
+    "subtitle": "Business Analyst",
+    "email": "24eshaan@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/eshaan-colaco-97085b230/",
+    "phone": "+91 7709098640",
     "portfolios": [
-      {"codepen": "codepen link"},
-      {"github": "github link"},
-      {"figma": "figma link"},
-      {"website":"website link"}
+   
+      {"github": "https://github.com/eshaancollaco"},
+    
+      {"website":"https://eshaancollaco.github.io/portfolio-eshaan/"}
     ]
   },
 
-  "objective": "this is an objective",
+  "objective": "To secure a challenging Business Analyst position in a dynamic organization where I can apply my skills in data analysis, process improvement, and project management to help the company achieve its strategic goals.",
   "education":[
     {
-      "school": "school",
+      "school": "Christ deemed to be university",
       "location": "city RO",
       "degree":"degree",
       "grad-date": "graduation date",
